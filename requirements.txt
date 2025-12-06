@@ -14,3 +14,6 @@ numpy>=1.25.0
 scikit-learn>=1.3.0
 matplotlib>=3.8.0
 seaborn>=0.13.2
+
+# Add WandB
+wandb>=0.17.0
